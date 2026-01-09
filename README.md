@@ -1,4 +1,4 @@
-# AYA_SEED_v1.2
+# AYA_SEED_v1.3
 
 Colab:
 https://colab.research.google.com/drive/1AG5Mh68F4WW2ub9xXzz-NYyC7MKQTLwt?authuser=0
